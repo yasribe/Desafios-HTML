@@ -1,5 +1,5 @@
 # Desafios-HTML
-Desafios:Essa é uma série de desafios básicos para que você possa praticar seus conhecimentos em HTML. Teste suas habilidades nas tags HTML mais utilizadas no dia a dia do Desenvolvimento Web.
+Desafios RocketSeat: Essa é uma série de desafios básicos para que você possa praticar seus conhecimentos em HTML. Teste suas habilidades nas tags HTML mais utilizadas no dia a dia do Desenvolvimento Web.
 
 1. Glossário: https://efficient-sloth-d85.notion.site/1-Gloss-rio-03e398f3c3e642b0a17c344aa354601f
 2. Formulário de contato: https://efficient-sloth-d85.notion.site/2-Formul-rio-de-contato-7bb047fc602f48a1859e02882ddd547b
